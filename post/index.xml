@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on extrastu</title>
-    <link>http://example.org/post/</link>
+    <link>https://extrastu.me/post/</link>
     <description>Recent content in Posts on extrastu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 27 May 2021 09:48:44 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 09:48:44 +0800</lastBuildDate><atom:link href="https://extrastu.me/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://example.org/post/first/</link>
+      <link>https://extrastu.me/post/first/</link>
       <pubDate>Thu, 27 May 2021 09:48:44 +0800</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
+      <guid>https://extrastu.me/post/first/</guid>
       <description></description>
     </item>
     
